@@ -1,1 +1,1 @@
-# terraform-cicd
+# GitLab CI/CD Pipeline: Automate Infrastructure Deployment to AWS Using Terraform
