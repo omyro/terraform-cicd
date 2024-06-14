@@ -1,7 +1,7 @@
-variable "sg" {
+# variable "sg" {
 
-}
+# }
 
-variable "subnet" {
+# variable "subnet" {
 
-}
+# }
